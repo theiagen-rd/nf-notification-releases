@@ -9,6 +9,6 @@ authentication.
 ## Installation
 
 ```bash
-export NXF_PLUGINS_TEST_REPOSITORY="https://github.com/theiagen-rd/nf-notification-releases/releases/download/v0.6.0/nf-notification-0.6.0-meta.json"
-nextflow run your-pipeline.nf -plugins nf-notification@0.6.0
+export NXF_PLUGINS_TEST_REPOSITORY="https://github.com/theiagen-rd/nf-notification-releases/releases/download/v0.7.0/nf-notification-0.7.0-meta.json"
+nextflow run your-pipeline.nf -plugins nf-notification@0.7.0
 ```
